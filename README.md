@@ -2,7 +2,8 @@
 
 ## Instalar dependencias
 ```bash
-npm install
+npm install --save-dev webpack webpack-cli
+npm install --save-dev html-webpack-plugin webpack-dev-server
 ```
 
 ## Levantar en modo desarrollo (abre el navegador solo)
